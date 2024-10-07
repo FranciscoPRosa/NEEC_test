@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.17">
   <diagram name="Página-1" id="ckhQ4OLtwh7NOZ8F5UyD">
-    <mxGraphModel dx="146" dy="95" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="512" dy="333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -665,6 +665,27 @@
           <mxGeometry x="60" y="70" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Z4uplLoxIJL1rz2Afq5--167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.085;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Z4uplLoxIJL1rz2Afq5--166" target="Z4uplLoxIJL1rz2Afq5--123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z4uplLoxIJL1rz2Afq5--168" value="ControlWord" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="610" y="70" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z4uplLoxIJL1rz2Afq5--170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.816;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Z4uplLoxIJL1rz2Afq5--168" target="Z4uplLoxIJL1rz2Afq5--123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z4uplLoxIJL1rz2Afq5--171" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650.48" y="110" as="sourcePoint" />
+            <mxPoint x="669.3100000000001" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z4uplLoxIJL1rz2Afq5--172" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;6&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670.23" y="100" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Z4uplLoxIJL1rz2Afq5--174" value="Reset" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="20" y="70" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z4uplLoxIJL1rz2Afq5--175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.034;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Z4uplLoxIJL1rz2Afq5--174" target="Z4uplLoxIJL1rz2Afq5--123">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
