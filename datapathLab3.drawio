@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.17">
   <diagram name="Page-1" id="VPvtaMNpJZhvRJrZJaOK">
-    <mxGraphModel dx="1110" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="493" dy="278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -595,9 +595,9 @@
         <mxCell id="rDomsemBt22BLF_l0Lk8-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rDomsemBt22BLF_l0Lk8-186" target="rDomsemBt22BLF_l0Lk8-214">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="740" y="190" />
-              <mxPoint x="740" y="240" />
-              <mxPoint x="760" y="240" />
+              <mxPoint x="750" y="190" />
+              <mxPoint x="750" y="240" />
+              <mxPoint x="789" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -607,9 +607,9 @@
         <mxCell id="rDomsemBt22BLF_l0Lk8-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rDomsemBt22BLF_l0Lk8-187" target="rDomsemBt22BLF_l0Lk8-202">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="740" y="430" />
-              <mxPoint x="740" y="400" />
-              <mxPoint x="760" y="400" />
+              <mxPoint x="750" y="430" />
+              <mxPoint x="750" y="380" />
+              <mxPoint x="789" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -620,16 +620,34 @@
           <mxGeometry x="570.87" y="490" width="19.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rDomsemBt22BLF_l0Lk8-210" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="670.81" y="285.18" width="257.63" height="80" as="geometry" />
+          <mxGeometry x="729" y="270" width="221.18" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rDomsemBt22BLF_l0Lk8-202" value="Img(det[k])" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="759.62" y="380" width="80" height="20" as="geometry" />
+          <mxGeometry x="800.59" y="369.99999999999994" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rDomsemBt22BLF_l0Lk8-213" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="789.99" y="420" width="19.25" height="40" as="geometry" />
+          <mxGeometry x="829.98" y="390.98" width="19.21" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rDomsemBt22BLF_l0Lk8-214" value="Real(det[k])" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="759.61" y="230.36" width="80" height="20" as="geometry" />
+          <mxGeometry x="800.59" y="230" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rDomsemBt22BLF_l0Lk8-219" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="250.36" as="sourcePoint" />
+            <mxPoint x="780" y="230.36" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rDomsemBt22BLF_l0Lk8-220" value="Q14.12" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=5;" vertex="1" parent="1">
+          <mxGeometry x="750" y="230.36" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="rDomsemBt22BLF_l0Lk8-221" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="390" as="sourcePoint" />
+            <mxPoint x="780" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rDomsemBt22BLF_l0Lk8-222" value="Q14.12" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=5;" vertex="1" parent="1">
+          <mxGeometry x="750" y="370" width="20" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
