@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.17">
   <diagram name="Page-1" id="VPvtaMNpJZhvRJrZJaOK">
-    <mxGraphModel dx="1480" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="701" dy="1495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -739,7 +739,7 @@
         <mxCell id="rDomsemBt22BLF_l0Lk8-283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rDomsemBt22BLF_l0Lk8-287" target="rDomsemBt22BLF_l0Lk8-282">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="900" y="50" />
+              <mxPoint x="900" y="-20" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -792,29 +792,29 @@
           <mxGeometry x="1029.59" y="510" width="60.41" height="20.36" as="geometry" />
         </mxCell>
         <mxCell id="rDomsemBt22BLF_l0Lk8-280" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1029.59" y="-20.180000000000007" width="60" height="120.36" as="geometry" />
+          <mxGeometry x="1029.59" y="-90.18" width="60" height="120.36" as="geometry" />
         </mxCell>
         <mxCell id="rDomsemBt22BLF_l0Lk8-284" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rDomsemBt22BLF_l0Lk8-281" target="rDomsemBt22BLF_l0Lk8-282">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1110" y="40" />
-              <mxPoint x="1110" y="-40" />
+              <mxPoint x="1110" y="-30" />
+              <mxPoint x="1110" y="-110" />
+              <mxPoint x="900" y="-110" />
               <mxPoint x="900" y="-40" />
-              <mxPoint x="900" y="30" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rDomsemBt22BLF_l0Lk8-281" value="sumDetR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1029.59" y="29.819999999999993" width="60.41" height="20.36" as="geometry" />
+          <mxGeometry x="1029.59" y="-40.18000000000001" width="60.41" height="20.36" as="geometry" />
         </mxCell>
         <mxCell id="rDomsemBt22BLF_l0Lk8-286" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rDomsemBt22BLF_l0Lk8-282" target="rDomsemBt22BLF_l0Lk8-281">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rDomsemBt22BLF_l0Lk8-282" value="+" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="20.000000000000057" width="40" height="40" as="geometry" />
+          <mxGeometry x="920" y="-49.99999999999994" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rDomsemBt22BLF_l0Lk8-285" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="1049.98" y="70" width="19.21" height="40" as="geometry" />
+          <mxGeometry x="1049.98" width="19.21" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rDomsemBt22BLF_l0Lk8-288" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rDomsemBt22BLF_l0Lk8-250" target="rDomsemBt22BLF_l0Lk8-287">
           <mxGeometry relative="1" as="geometry">
@@ -824,7 +824,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rDomsemBt22BLF_l0Lk8-287" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="150" width="20" height="20" as="geometry" />
+          <mxGeometry x="890" y="100" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
