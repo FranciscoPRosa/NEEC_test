@@ -530,6 +530,18 @@
             <mxPoint x="510" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rDomsemBt22BLF_l0Lk8-171" value="Q13.12" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=5;" vertex="1" parent="1">
+          <mxGeometry x="480" y="480" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="rDomsemBt22BLF_l0Lk8-172" value="Q13.12" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=5;" vertex="1" parent="1">
+          <mxGeometry x="480" y="360" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="rDomsemBt22BLF_l0Lk8-173" value="Q13.12" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=5;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="rDomsemBt22BLF_l0Lk8-174" value="Q13.12" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=5;" vertex="1" parent="1">
+          <mxGeometry x="480" y="120" width="20" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
