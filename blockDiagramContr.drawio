@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lkuB_7mltpB1Ut6H_fc4-70" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-120" width="950" height="610" as="geometry" />
+        </mxCell>
         <mxCell id="lkuB_7mltpB1Ut6H_fc4-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="-48.75" width="885" height="448.75" as="geometry" />
         </mxCell>
@@ -351,11 +354,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XUwTfJBHHrVztobZP6dr-85" value="&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;State&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp;Output&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Logic&lt;/font&gt;&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;" parent="1" vertex="1">
+        <mxCell id="XUwTfJBHHrVztobZP6dr-85" value="&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Next&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;State &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Logic&lt;/font&gt;&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="730" y="50" width="60" height="225" as="geometry" />
         </mxCell>
         <mxCell id="XUwTfJBHHrVztobZP6dr-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XUwTfJBHHrVztobZP6dr-85" target="XUwTfJBHHrVztobZP6dr-64" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="815" y="168" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XUwTfJBHHrVztobZP6dr-92" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;en&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="795" y="181.5" width="10" height="11" as="geometry" />
@@ -499,6 +506,9 @@
         </mxCell>
         <mxCell id="lkuB_7mltpB1Ut6H_fc4-67" value="V&lt;sub&gt;recharge&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="585" y="326.75" width="50" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="lkuB_7mltpB1Ut6H_fc4-71" value="Next state update" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="790" y="206.25" width="80" height="12.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
